@@ -1,3 +1,15 @@
+/*
+// Olá, pessoal!
+// 
+// Estou enfrentando um problema com uma função assíncrona que utiliza await page.evaluate. 
+// Ela funciona em alguns sites, mas não em outros. O nome da função é passwordDisplayNone(). 
+// Se alguém puder dar uma olhada e sugerir melhorias, ficarei muito grato!
+// 
+*/
+
+
+
+
 const fs = require("fs");
 const { pool } = require("./pool");
 const { v4: uuidv4 } = require("uuid");
